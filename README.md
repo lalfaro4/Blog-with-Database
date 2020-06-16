@@ -1,2 +1,2 @@
 # Blog-with-Database
-Blog
+Blog with a database.
